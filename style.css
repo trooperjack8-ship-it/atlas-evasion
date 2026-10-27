@@ -4,7 +4,7 @@ img,video{max-width:100%;height:auto;display:block;margin:1rem auto}
 #banniere img{width:100%;object-fit:cover;max-height:60vh}
 #entete,#menu{text-align:center}
 nav a{margin:0 .35rem}
-.promo{background:#e8a317;color:#fff;padding:.6rem 1rem;text-align:center;font-weight:bold}
+.promo{background:#8a4a00;color:#fff;padding:.6rem 1rem;text-align:center;font-weight:bold}
 table{width:100%;border-collapse:collapse;margin:1rem 0}
 td,th{border:1px solid #999;padding:.5rem}
 th{background:#ffffcc}

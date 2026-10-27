@@ -4,9 +4,11 @@ img,video{max-width:100%;height:auto;display:block;margin:1rem auto}
 #banniere img{width:100%;object-fit:cover;max-height:60vh}
 #entete,#menu{text-align:center}
 nav a{margin:0 .35rem}
-.promo{background:#8a4a00;color:#fff;padding:.6rem 1rem;text-align:center;font-weight:bold}
+.promo{background:#8a4a00;color:#fff}
+.promo a{color:#ffe9c9;padding:.6rem 1rem;text-align:center;font-weight:bold}
 table{width:100%;border-collapse:collapse;margin:1rem 0}
 td,th{border:1px solid #999;padding:.5rem}
 th{background:#ffffcc}
 blockquote{border-left:4px solid #e8a317;margin:1rem 0;padding:.5rem 1rem;background:#fff8e6}
 #pied{border-top:2px solid #e8a317;margin-top:2rem;padding-top:1rem;font-size:.9rem;color:#555}
+.promo a{color:#ffe9c9}
